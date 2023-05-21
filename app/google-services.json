@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351102819041",
+    "project_id": "imnapp-project",
+    "storage_bucket": "imnapp-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351102819041:android:1e6a13647ef8a302f835a0",
+        "android_client_info": {
+          "package_name": "com.example.imnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351102819041-qgoece0d1roccr660krqeghf1jvmgtsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2pFjFgCM-l-aiLHKmnDC0-0nSAfgw6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351102819041-qgoece0d1roccr660krqeghf1jvmgtsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
